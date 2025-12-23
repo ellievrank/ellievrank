@@ -1,4 +1,4 @@
 ## Hi there 👋
 
 Law & Commerce student • Access to justice • Too many hobbies
-🌱 Currently building the Criminal Injuries Compensation Handbook to make legal information more accessible and practical.
+</br> 🌱 Currently building the Criminal Injuries Compensation Handbook to make legal information more accessible and practical.
